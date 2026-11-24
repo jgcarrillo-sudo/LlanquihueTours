@@ -1,0 +1,7 @@
+Carlos Mendoza;987654321;Avenida Comandante San Martin;120;Arica;12345678-9;Guia;6574935
+Ana Silva;912345678;Baquedano;450;Iquique;98765432-1;Administrador;2839146
+Roberto Gomez;955544332;Diego Portales;890;Antofagasta;11223344-5;Conductor;7410258
+Valentina Rojas;976543210;Los Carrera;315;La Serena;15678234-K;Guia;3957024
+Matias Fuentes;934567891;Avenida Alemania;1280;Valparaiso;17894561-3;Conductor;8126473
+Camila Soto;968123457;Manuel Montt;742;Temuco;19234876-5;Administrador;4693581
+Felipe Vargas;923456781;Avenida Costanera;56;Punta Arenas;14567890-2;Guia;5280917
